@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asistentecomercial-fnia",
+  "private_key_id": "6d9603e1fa651db8cbce138f36b379af71ff21d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCi/p+RuKOTqvpW\nOTsFo33Ie151Fk4cAWkksyc25tbV9xI/ZC8o4ZO9pPXZ7cqQzg8M2oW2yBPF4FgV\nBVyUcctxnZZGIky03wCcdyJSUVQecCLVvd/WRPdKj3aKYr2Qv1EC2XuRsaNp9Oo9\niFZVoIdnwCheuLfE1a1HoupfkVLDuvN6pJ9dMWnF6fJc8mYE2s50WUr87914KELT\n78PComVk4to1utbx4xn7HsxP+/JW53aG36MCRxpfrfaDHbn0B5fFUyqtbN9asxoK\n3tVrSk39JCtSV5Pcb2dNswzqiPCfYExibzo1ydZof7qCF5LSmTchFr8yJwI2eVO6\nJQ7Gz0rxAgMBAAECggEAMBGWfpOszg5U8JvFL8cE/9x+QVqYI4M4/mVFUdgnEIfi\nXkaN7+kCuKGPDbumiyjx4FELsRl1V1xvrZdcs7yRioq2eC2CYK8Jj5tEyHEKtUVN\nyKpL+nVxVpBTncE79ZWubwAzhIaWUlezwvzTtUH33N2bKkAglhCMHz3JD/EcLvOY\n/OYvZBEhPQpAqyb8quIghNfO5IgChiNgKdkGBvPCo5K/rDxZyVDwuybZNskg6wUv\nIUnxmIwNkPVyazTDFTnVK2dQK4SZy32Fe0NQ5TSedJAnykZT1GwS/1zLL+QQg/Vs\n62BIgtDnHWOKiMlsz3aYxZu0HYrrKZRSeLMRosyQLwKBgQDgG/Tg7C8ozr0RweoZ\ngWt8ARxQz1dCd/+0ABHgfhLa2MnuSCF7cJx+SDJ9BWsMSO5L4y2WuV7bTLZ8ktwx\nh456gX/LHTOxWRsdELJ9/LBoiQC4dvf1YSitha4DPV13TpWER3fZshI5ZyAGmAQt\nm2g7XEDRV2zznPlZmSHYdGEiBwKBgQC6MFT++ef22vuOMbJOQBJT3HY1GH2rlqda\nFpMZcsbRz0C9lS+UXy3g4ooGMeRXgYE25fzVOVDAOsaHl6skHdzoB1WTCYH3LQBQ\n1ilmIlWHNd0mmPxzFh2xThysa4CmRtbImRlur43P0vJc/Lt/bf7M3UKtZHwgJKSN\nsgW7IpeNRwKBgH3g1hP8NaT7MpGl1OMMoZ3eVdRCEeZA1rx5CZGJ3vdTq2CO3Vej\nchMwZEN65pzY3hh7+yBc8J3HIf0o1Etxs6K12FzzAxULUsJpnYhMhZ3BzkjOcgo+\nz4Vfv9UMA9K+rhbFudjqP3hEp2Vsv3QKhWpKMBIlxAm10wzziWI2RFTDAoGBAKYj\n2rRra4Hrhe0si18n7TLH1vMqF3m1xT+uRTTAJomx1qNVLE/JXrb9bwx4GLm85gCG\n2UWrD1N5Hw5/WEeyHh0t7j52jXJyxYVclTR+DrPIbL60ZRCM+5HrkcqJYxL8w0vc\n0cTjAjgglARFwUnEbUmBZq4yrFBCYlPONy71fyahAoGAWfp7X3qCEYRK8zFPrFUj\nOQll47elIlrEptMBXpsOdbB+6sYAdfXW4qWqwVF6U5MCZFymTmrb3bokAO/T0on0\nxQ+itYAuWKCEav6EQUkC8fj5bjfIfzEniQ0CaF6IodwvdKOPX3q49PJtj7XYmTix\nWwa4iqG4eIKANpCOj5YVzvM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@asistentecomercial-fnia.iam.gserviceaccount.com",
+  "client_id": "115428734218509805286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40asistentecomercial-fnia.iam.gserviceaccount.com"
+}
